@@ -1,4 +1,6 @@
-# ![https://github.com/manic-dolphin/ddpm-universe/blob/main/imgs/cover.jpg](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+<p align="center" width="100%">
+<img src="imgs/cover.jpg" alt="Cover" style="width: 50%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
 # Papers of Diffusion Models
 
 > A list of papers related to diffusion models, and this list will be updated now and again.
