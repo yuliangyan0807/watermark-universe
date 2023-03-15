@@ -1,4 +1,4 @@
-# ![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+# ![https://github.com/manic-dolphin/ddpm-universe/blob/main/imgs/cover.jpg](/assets/img/philly-magic-garden.jpg "Magic Gardens")
 # Papers of Diffusion Models
 
 > A list of papers related to diffusion models, and this list will be updated now and again.
