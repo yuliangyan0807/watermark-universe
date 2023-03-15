@@ -18,7 +18,3 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Theoretical-ff69bf" alt="arXiv"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Comprehensive-FFD700" alt="type"/>
-
-## Copyright
-
-The contents of this repository is bound by the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
