@@ -11,7 +11,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Milestone-red" alt="conf"/>
 
-- `ICLR2021` Score-Based Generative Modeling through Stochastic Differential Equations, 2021. [[paper]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde) {This paper bridge the gap between the DDPM and the scored based generative models.}
+- `ICLR2021` Score-Based Generative Modeling through Stochastic Differential Equations, 2021. [[paper]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde) \\This paper bridge the gap between the DDPM and the scored based generative models.
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Applications-brightgreen" alt="arXiv"/>
 
