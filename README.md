@@ -8,6 +8,7 @@
 
 - Improving Mental Health Support Response Generation with Event-based Knowledge Graph, 2023. [[paper]](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) [[code]](https://github.com/Stan7s/MHKG)
 - Diffusion Models: A Comprehensive Survey of Methods and Applications, 2022.10.24. [[paper]](https://arxiv.org/abs/2209.00796)
+- Understanding Diffusion Models: A Unified Perspective, 2022.8.25. [[paper]](https://arxiv.org/abs/2208.11970)
 - `ICASSP23` Empathetic Response Generation via Emotion Cause Transition Graph, 2023. [[paper]]()
 - CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior, 2023. [[paper]](https://arxiv.org/abs/2302.01935) [[code]](https://github.com/geri-emp/CAB)
 - Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation, 2023. [[paper]](https://arxiv.org/abs/2302.01441)
