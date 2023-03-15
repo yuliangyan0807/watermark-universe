@@ -1,3 +1,4 @@
+# <img src="[https://img.shields.io/badge/Paper%20Type-Survey-informational](https://github.com/manic-dolphin/ddpm-universe/blob/main/imgs/cover.jpg)" alt="type"/>
 # Papers of Diffusion Models
 
 > A list of papers related to diffusion models, and this list will be updated now and again.
