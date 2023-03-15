@@ -2,7 +2,7 @@
 
 > A list of papers related to diffusion models, and this list will be updated now and again.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-177-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--15-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-3-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-informational" alt="type"/>
 
