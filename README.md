@@ -4,7 +4,7 @@
 
 # Papers of Diffusion Models
 
-> A list of papers related to diffusion models, and this list will be updated now and again.
+> A list of papers related to diffusion models, and this list will be updated now and again.<br>
 
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-5-2D333B" alt="PaperNum"/>
 
