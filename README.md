@@ -17,7 +17,7 @@
 ### 2020
 - ⭐:star::star: `NIPS2020` Denoising Diffusion Probabilistic Models, 2020. [[paper]](https://arxiv.org/abs/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
 ### 2021
-- `ICLR2021` Score-Based Generative Modeling through Stochastic Differential Equations, 2021. [[paper]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde)
+- :star::star::star: `ICLR2021` Score-Based Generative Modeling through Stochastic Differential Equations, 2021. [[paper]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Applications-brightgreen" alt="arXiv"/>
 
