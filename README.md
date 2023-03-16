@@ -6,7 +6,7 @@
 
 > A list of papers related to diffusion models, and this list will be updated now and again.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--15-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-3-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-4-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-informational" alt="type"/>
 
@@ -14,7 +14,7 @@
 - Understanding Diffusion Models: A Unified Perspective, 2022.8.25. [[paper]](https://arxiv.org/abs/2208.11970)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Milestone-red" alt="conf"/>
-
+- `NIPS2020` Denoising Diffusion Probabilistic Models, 2020. [[paper]](https://arxiv.org/abs/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
 - `ICLR2021` Score-Based Generative Modeling through Stochastic Differential Equations, 2021. [[paper]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Applications-brightgreen" alt="arXiv"/>
