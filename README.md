@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="imgs/cover.jpg" alt="Cover" style="width: 80%; min-width: 600px; display: block; margin: auto;"></a>
+<img src="https://github.com/manic-dolphin/ddpm-universe/imgs/cover.jpg" alt="Cover" style="width: 80%; min-width: 600px; display: block; margin: auto;"></a>
 </p>
 
 # Papers of Diffusion Models
