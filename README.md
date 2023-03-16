@@ -18,6 +18,7 @@
 - ⭐:star::star: `NIPS2020` Denoising Diffusion Probabilistic Models, 2020. [[paper]](https://arxiv.org/abs/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
 ##### 2021
 - :star::star::star: `ICLR2021` Score-Based Generative Modeling through Stochastic Differential Equations, 2021. [[paper]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde)
+- :star::star: Diffusion Models Beat GANs on Image Synthesis, 2021. [[paper]](https://arxiv.org/abs/2105.05233) [[code]](https://github.com/openai/guided-diffusion)
 ##### 2022
 - :star::star::star: `CVPR2022` High-Resolution Image Synthesis with Latent Diffusion Models, 2022. [[paper]](https://arxiv.org/abs/2112.10752) [[code]](https://github.com/CompVis/latent-diffusion)
 
