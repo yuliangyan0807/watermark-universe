@@ -26,6 +26,7 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Applications-brightgreen" alt="arXiv"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Theoretical-ff69bf" alt="arXiv"/>
-- `NIPS2021` :star::star: Variational Diffusion Models, 2021. [[paper]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
+##### 2021
+- :star::star: `NIPS2021` Variational Diffusion Models, 2021. [[paper]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Comprehensive-FFD700" alt="type"/>
