@@ -6,7 +6,7 @@
 
 > A list of papers related to diffusion models, and this list will be updated now and again.<br>
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-7-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-8-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-informational" alt="type"/>
 ##### 2022
@@ -26,5 +26,6 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Applications-brightgreen" alt="arXiv"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Theoretical-ff69bf" alt="arXiv"/>
+- `NIPS2021` :star::star: Variational Diffusion Models, 2021. [[paper]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Comprehensive-FFD700" alt="type"/>
