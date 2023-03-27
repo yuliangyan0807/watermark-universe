@@ -6,7 +6,7 @@
 
 > A list of papers related to diffusion models, and this list will be updated now and again.<br>
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-8-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-9-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-informational" alt="type"/>
 ##### 2022
@@ -23,7 +23,9 @@
 - :star::star::star: `CVPR2022` High-Resolution Image Synthesis with Latent Diffusion Models, 2022. [[paper]](https://arxiv.org/abs/2112.10752) [[code]](https://github.com/CompVis/latent-diffusion)
 - :star::star: `NIPS2021` Classifier-Free Diffusion Guidance, 2022. [[paper]](https://arxiv.org/abs/2207.12598) [[code]](https://github.com/coderpiaobozhe/classifier-free-diffusion-guidance-Pytorch)
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Applications-brightgreen" alt="arXiv"/>
+# <img src="https://img.shields.io/badge/Paper%20Type-Sampling-brightgreen" alt="arXiv"/>
+##### 2021
+- :star: Gotta Go Fast When Generating Data with Score-Based Models, 2021. [[paper]](https://arxiv.org/abs/2105.14080) [[code]](https://github.com/AlexiaJM/score_sde_fast_sampling)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Theoretical-ff69bf" alt="arXiv"/>
 ##### 2021
