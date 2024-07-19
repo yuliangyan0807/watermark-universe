@@ -20,7 +20,6 @@
 - A Watermark for Large Language Models, 2023.1.24. [[paper]](https://arxiv.org/abs/2301.10226)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Sampling-brightgreen" alt="arXiv"/>
-##### 2021
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Theoretical-ff69bf" alt="arXiv"/>
 
