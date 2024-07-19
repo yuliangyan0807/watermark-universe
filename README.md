@@ -13,7 +13,7 @@
 - Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond, 2024.7.15. [[paper]](https://www.arxiv.org/abs/2407.11100)
 ##### 2023
 - Deep Intellectual Property Protection: A Survey, 2023.6.17. [[paper]](https://arxiv.org/abs/2304.14613)
-- Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond, 2023.12.13. [[paper]](https://arxiv.org/abs/2312.07913)
+- A Survey of Text Watermarking in the Era of Large Language Models, 2023.12.13. [[paper]](https://arxiv.org/abs/2312.07913)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Milestone-red" alt="conf"/>
 ##### 2023
