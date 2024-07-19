@@ -2,9 +2,9 @@
 <img src="imgs/cover.jpg" alt="jpg" style="width: 80%; min-width: 600px; display: block; margin: auto;"></a>
 </p>
 
-# Papers of Diffusion Models
+# Papers about watermarking&fingerprinting
 
-> A list of papers related to diffusion models, and this list will be updated now and again.<br>
+> We collect a list of papers related to watermarking&fingerprinting technique, and this list will be updated now and again.<br>
 
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-9-2D333B" alt="PaperNum"/>
 
