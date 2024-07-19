@@ -9,26 +9,19 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--07--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-9-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-informational" alt="type"/>
-##### 2022
-- Diffusion Models: A Comprehensive Survey of Methods and Applications, 2022.10.24. [[paper]](https://arxiv.org/abs/2209.00796)
-- Understanding Diffusion Models: A Unified Perspective, 2022.8.25. [[paper]](https://arxiv.org/abs/2208.11970)
+##### 2024
+- Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond, 2024.7.15. [[paper]](https://www.arxiv.org/abs/2407.11100)
+##### 2023
+- Deep Intellectual Property Protection: A Survey, 2023.6.17. [[paper]](https://arxiv.org/abs/2304.14613)
+- Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond, 2023.12.13. [[paper]](https://arxiv.org/abs/2312.07913)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Milestone-red" alt="conf"/>
-##### 2020
-- ⭐:star::star: `NIPS2020` Denoising Diffusion Probabilistic Models, 2020. [[paper]](https://arxiv.org/abs/2006.11239) [[code]](https://github.com/hojonathanho/diffusion)
-##### 2021
-- :star::star::star: `ICLR2021` Score-Based Generative Modeling through Stochastic Differential Equations, 2021. [[paper]](https://arxiv.org/abs/2011.13456) [[code]](https://github.com/yang-song/score_sde)
-- :star::star: Diffusion Models Beat GANs on Image Synthesis, 2021. [[paper]](https://arxiv.org/abs/2105.05233) [[code]](https://github.com/openai/guided-diffusion)
-##### 2022
-- :star::star::star: `CVPR2022` High-Resolution Image Synthesis with Latent Diffusion Models, 2022. [[paper]](https://arxiv.org/abs/2112.10752) [[code]](https://github.com/CompVis/latent-diffusion)
-- :star::star: `NIPS2021` Classifier-Free Diffusion Guidance, 2022. [[paper]](https://arxiv.org/abs/2207.12598) [[code]](https://github.com/coderpiaobozhe/classifier-free-diffusion-guidance-Pytorch)
+##### 2023
+- A Watermark for Large Language Models, 2023.1.24. [[paper]](https://arxiv.org/abs/2301.10226)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Sampling-brightgreen" alt="arXiv"/>
 ##### 2021
-- :star: Gotta Go Fast When Generating Data with Score-Based Models, 2021. [[paper]](https://arxiv.org/abs/2105.14080) [[code]](https://github.com/AlexiaJM/score_sde_fast_sampling)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Theoretical-ff69bf" alt="arXiv"/>
-##### 2021
-- :star::star: `NIPS2021` Variational Diffusion Models, 2021. [[paper]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Comprehensive-FFD700" alt="type"/>
