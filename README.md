@@ -6,7 +6,7 @@
 
 > We collect a list of papers related to watermarking&fingerprinting technique, and this list will be updated now and again.<br>
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--07--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-4-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--07--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-5-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-informational" alt="type"/>
 ##### 2024
@@ -18,6 +18,8 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Milestone-red" alt="conf"/>
 ##### 2023
 - A Watermark for Large Language Models, 2023.1.24. [[paper]](https://arxiv.org/abs/2301.10226)
+##### 2017
+- Embedding Watermarks into Deep Neural Networks, 2017.4.20. [[paper]](https://arxiv.org/abs/1701.04082)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Sampling-brightgreen" alt="arXiv"/>
 
