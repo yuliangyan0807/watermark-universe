@@ -6,7 +6,7 @@
 
 > We collect a list of papers related to watermarking&fingerprinting technique, and this list will be updated now and again.<br>
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--07--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-5-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--09--3-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers75-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-informational" alt="type"/>
 ##### 2024
@@ -21,7 +21,10 @@
 ##### 2017
 - Embedding Watermarks into Deep Neural Networks, 2017.4.20. [[paper]](https://arxiv.org/abs/1701.04082)
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Sampling-brightgreen" alt="arXiv"/>
+# <img src="https://img.shields.io/badge/Paper%20Type-Fingerprinting-brightgreen" alt="arXiv"/>
+##### 2024
+- Hide and Seek: Fingerprinting Large Language Models with Evolutionary Learning, 2024.8.6. [[paper]](https://www.arxiv.org/abs/2408.02871)
+- LLMmap: Fingerprinting For Large Language Models, 2024.7.22. [[paper]](LLMmap: Fingerprinting For Large Language Models)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Theoretical-ff69bf" alt="arXiv"/>
 
