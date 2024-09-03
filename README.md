@@ -6,7 +6,7 @@
 
 > We collect a list of papers related to watermarking&fingerprinting technique, and this list will be updated now and again.<br>
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--09--3-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers75-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2024--09--3-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-7-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-informational" alt="type"/>
 ##### 2024
