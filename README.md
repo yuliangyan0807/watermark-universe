@@ -24,7 +24,7 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Fingerprinting-brightgreen" alt="arXiv"/>
 ##### 2024
 - Hide and Seek: Fingerprinting Large Language Models with Evolutionary Learning, 2024.8.6. [[paper]](https://www.arxiv.org/abs/2408.02871)
-- LLMmap: Fingerprinting For Large Language Models, 2024.7.22. [[paper]](LLMmap: Fingerprinting For Large Language Models)
+- LLMmap: Fingerprinting For Large Language Models, 2024.7.22. [[paper]](https://arxiv.org/abs/2407.15847)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Theoretical-ff69bf" alt="arXiv"/>
 
